@@ -1,2 +1,3 @@
-# r-seoul-project
-[지도 보기](https://htmlpreview.github.io/?https://github.com/[유저명]/[레포명]/blob/main/seoul_subway_map.html)
+## 프로젝트 실행
+
+[지도 보기](https://4j7m4bd2rj-sketch.github.io/r-seoul-project/)
